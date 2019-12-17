@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GymApplication3</string>
+    <string name="available_merchandise">Available Merchandise</string>
+    <string name="inventory">Inventory</string>
+    <string name="cancel">Cancel</string>
+    <string name="purchase">Purchase</string>
+    <string name="how_many_do_you_want">How many?</string>
+    <string name="fitzgerald_s_gym">FitzGerald\'s Gym</string>
+</resources>
